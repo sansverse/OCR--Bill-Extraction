@@ -1,0 +1,9 @@
+numpy
+fastapi
+uvicorn[standard]
+pydantic
+requests
+pillow
+opencv-python
+easyocr
+python-multipart

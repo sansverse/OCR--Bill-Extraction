@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Build/dist
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
